@@ -1,0 +1,11 @@
+{
+  "node_count": 10000,
+  "edge_count": 30007,
+  "density": 0.0006002000200020002,
+  "connected_components": 1,
+  "avg_degree": 6.0014,
+  "max_degree": 16,
+  "avg_clustering_coefficient": 0.5,
+  "avg_path_length": null,
+  "diameter": null
+}
