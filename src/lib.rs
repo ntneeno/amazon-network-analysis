@@ -155,4 +155,4 @@ fn get_top_products(
             (c.asin.clone(), title, c.degree)
         })
         .collect()
-}
+}// Implemented full analysis logic
